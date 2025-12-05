@@ -1,0 +1,12 @@
+{
+  "name": "fake-product-api",
+  "version": "1.0.0",
+  "description": "A public fake product API for frontend testing",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
